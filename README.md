@@ -5,7 +5,7 @@ This project was a collaborative effort that our team built from April 2023 to J
 
 The scenario behind the project is that the team was hired by GoGreen Food Imports, which was a startup company focused on importing sustainable food products. Our team was responsible for conducting exploratory data analysis in order to provide business intelligence insights to our stakeholders.
 
-Our initial data set consisted of 20 years of US food and beverage import data. This dataset is publically available at www.data.gov. The original dataset is included in this repository and labeled FoodImports.xlsx.
+Our initial data set consisted of 20 years of US food and beverage import data. This dataset is publicly available at www.data.gov. The original dataset is included in this repository and labeled FoodImports.xlsx.
 
 This project featured all of the major components of a Business Intelligence project: Data acquisition, data cleansing, data warehouse design, ETL into the data warehouse, exploratory data analysis, and data visualization.
 Our team used the Agile/SCRUM project management methodology to coordinate our work flow. The results of our work were presented to an audience of fellow students, professors, and data industry professionals.
